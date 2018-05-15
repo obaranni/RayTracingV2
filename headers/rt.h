@@ -31,7 +31,7 @@
 # define QIMG (q_img->img_str)
 # define QBPP (q_img->bpp)
 # define N (atr->q.obj->get_norm_vect(atr->q.obj->data, &(atr->q.inters_pnt)))
-# define THR_C 1
+# define THR_C 8
 
 struct s_env;
 struct s_col;
